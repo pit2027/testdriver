@@ -1,7 +1,9 @@
 import math
 
+
 def plus(a,b):
-    return a+b
+    res = math.pow(a,b)
+    return res
 
 def minus(a,b):
     return a-b
